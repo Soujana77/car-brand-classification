@@ -1,0 +1,13 @@
+# Ignore dataset folder (too large for GitHub)
+dataset/
+
+# Ignore large model weights
+*.h5
+*.keras
+
+# Python cache folders
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
